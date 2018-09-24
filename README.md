@@ -13,3 +13,10 @@
 
 6. Reload the terminal and see changes.
 ```
+
+![alt text](https://i.imgur.com/uIUa007.png "random-emoji-robbyrussell")
+
+terminal looks like this.
+
+
+Note: I have used zsh syntax highlighting plugin.
