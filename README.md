@@ -11,7 +11,7 @@
 
 5. ZSH_THEME="random-emoji-robbyrussell"
 
-6. Reload the terminal and see changes.
+6. Save and reload the terminal and see changes.
 ```
 
 ![alt text](https://i.imgur.com/uIUa007.png "random-emoji-robbyrussell")
