@@ -19,6 +19,4 @@
 terminal looks like this.
 
 
-Note: I have used zsh syntax highlighting plugin.
-
-Note: The emoji are random.
+### Note: I have used zsh syntax highlighting plugin and the emoji are shuffled from the list.
